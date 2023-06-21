@@ -1,0 +1,9 @@
+.cart-list {
+  padding-left: 0px;
+}
+.cart-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
